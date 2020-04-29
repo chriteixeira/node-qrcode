@@ -18,6 +18,10 @@
     "./lib/utils/buffer.js": "./lib/utils/typedarray-buffer.js",
     "fs": false
   },
+  "react-native": {
+    "./lib/index.js": "./lib/index.js",
+    "fs": false
+  },
   "files": [
     "bin",
     "build",
